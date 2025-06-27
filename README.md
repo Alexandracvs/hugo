@@ -27,3 +27,9 @@ Mais do que um exercício técnico, este projeto foi uma oportunidade para aplic
 Ao documentar esse processo aqui no GitHub, pretendo demonstrar minha capacidade de conduzir projetos de Business Intelligence de ponta a ponta, unindo visão estratégica, capacidade analítica e domínio de ferramentas como Power BI e Figma.
 
 🔗 **Repositório:** [https://github.com/Alexandracvs/Analise-Olist](https://github.com/Alexandracvs/Analise-Olist)
+
+
+## 📊 Dashboard – Análise de Vendas da Olist
+<img src="page-0001.jpg" alt="Vista geral" width="800">
+</p>
+
