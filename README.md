@@ -34,3 +34,15 @@ Ao documentar esse processo aqui no GitHub, pretendo demonstrar minha capacidade
 </p>
 
 A primeira página do dashboard apresenta uma visão geral das vendas no marketplace Olist, com destaque para o total de pedidos (98.666), receita acumulada (R$ 15,92 milhões) e avaliação média dos clientes (4,03). Mostra também o volume de pedidos por categoria e por mês, além de um mapa com a receita total por estado. Os filtros permitem segmentar por região do Brasil.
+
+
+<img src="page-0002.jpg" alt="Pagamentos" width="800">
+</p>
+
+
+<img src="page-0003.jpg" alt="Entregas" width="800">
+</p>
+
+
+<img src="page-0004.jpg" alt="Avaliação Cliente" width="800">
+</p>
